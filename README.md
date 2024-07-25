@@ -15,8 +15,8 @@ ann_bmp files: 165
 Therefore, in this experiment, we employed an online augmentation strategy to improve segmentation accuracy.
 We applied the following image transformation methods to the original dataset to augment them during our trainging process.<br>
 <ul>
-<li>horitonal flipping</li>
-<li>vertial flipping</li>
+<li>horizontal flipping</li>
+<li>vertical flipping</li>
 <li>rotation</li>
 <li>shrinking</li>
 <li>shearing</li>
